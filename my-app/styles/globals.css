@@ -25,7 +25,6 @@ h1 {
     orange,
     red
   );
-  -webkit-background-clip: text;
   color: transparent;
 }
 
