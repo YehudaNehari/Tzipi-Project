@@ -33,7 +33,6 @@ export default function Timer(props) {
         {minutes === 0 && seconds === 0 ? (
           <div className="timer">
             <After />
-            {(window.location = "/")}
           </div>
         ) : (
           <React.Fragment>
